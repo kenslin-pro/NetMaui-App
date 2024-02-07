@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "YajRNItsCigTPt+82pTbkCpd0c6yp4GWK0BrXJJKOI5U900E8nx8b877rABfPI2z3Fec5jQ3BG/bFYGgx+rC8g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Owner\\Downloads\\NetMaui App\\MauiApp1\\MauiApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net8.0-ios, net8.0-maccatalyst"
+    }
+  ]
+}
